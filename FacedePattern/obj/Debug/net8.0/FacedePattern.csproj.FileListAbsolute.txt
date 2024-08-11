@@ -1,0 +1,14 @@
+C:\www\padroes_projeto\FacedePattern\FacedePattern\bin\Debug\net8.0\FacedePattern.exe
+C:\www\padroes_projeto\FacedePattern\FacedePattern\bin\Debug\net8.0\FacedePattern.deps.json
+C:\www\padroes_projeto\FacedePattern\FacedePattern\bin\Debug\net8.0\FacedePattern.runtimeconfig.json
+C:\www\padroes_projeto\FacedePattern\FacedePattern\bin\Debug\net8.0\FacedePattern.dll
+C:\www\padroes_projeto\FacedePattern\FacedePattern\bin\Debug\net8.0\FacedePattern.pdb
+C:\www\padroes_projeto\FacedePattern\FacedePattern\obj\Debug\net8.0\FacedePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\padroes_projeto\FacedePattern\FacedePattern\obj\Debug\net8.0\FacedePattern.AssemblyInfoInputs.cache
+C:\www\padroes_projeto\FacedePattern\FacedePattern\obj\Debug\net8.0\FacedePattern.AssemblyInfo.cs
+C:\www\padroes_projeto\FacedePattern\FacedePattern\obj\Debug\net8.0\FacedePattern.csproj.CoreCompileInputs.cache
+C:\www\padroes_projeto\FacedePattern\FacedePattern\obj\Debug\net8.0\FacedePattern.dll
+C:\www\padroes_projeto\FacedePattern\FacedePattern\obj\Debug\net8.0\refint\FacedePattern.dll
+C:\www\padroes_projeto\FacedePattern\FacedePattern\obj\Debug\net8.0\FacedePattern.pdb
+C:\www\padroes_projeto\FacedePattern\FacedePattern\obj\Debug\net8.0\FacedePattern.genruntimeconfig.cache
+C:\www\padroes_projeto\FacedePattern\FacedePattern\obj\Debug\net8.0\ref\FacedePattern.dll

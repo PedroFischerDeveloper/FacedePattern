@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacedePattern", "FacedePattern\FacedePattern.csproj", "{84A1D0AE-62DA-491A-A0EE-0E98F707C05B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84A1D0AE-62DA-491A-A0EE-0E98F707C05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A1D0AE-62DA-491A-A0EE-0E98F707C05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A1D0AE-62DA-491A-A0EE-0E98F707C05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A1D0AE-62DA-491A-A0EE-0E98F707C05B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1007E052-22D5-4171-832F-E1E90E2F1064}
+	EndGlobalSection
+EndGlobal
